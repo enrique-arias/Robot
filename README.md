@@ -3,6 +3,7 @@ Notes
 Spring boot application
 
 To build: mvn clean install
+
 To run it: mvn spring-boot:run
 
 I have decided for a POST request (it was not specified) with a format: /oilCleaner
